@@ -1,0 +1,1001 @@
+Date,Cookie Type,Store Location,Quantity Sold,Revenue
+4/13/2022,Chocolate Chip,Store A,42,83.83
+3/12/2023,Chocolate Chip,Store B,30,30.3
+9/28/2022,Chocolate Chip,Store D,22,54.42
+4/17/2022,Sugar,Store D,28,127.18
+3/13/2022,Sugar,Store B,7,91.93
+12/2/2023,Chocolate Chip,Store B,35,134.29
+1/21/2022,Snickerdoodle,Store D,28,47.08
+9/7/2023,Peanut Butter,Store A,14,182.44
+5/2/2022,Peanut Butter,Store A,10,53.6
+4/12/2023,Oatmeal Raisin,Store B,16,183.22
+8/3/2022,Snickerdoodle,Store A,16,42.85
+11/27/2022,Sugar,Store D,31,58.09
+4/4/2023,Chocolate Chip,Store A,42,32.64
+3/29/2022,Oatmeal Raisin,Store B,25,25.34
+1/8/2023,Peanut Butter,Store D,13,87.04
+4/10/2022,Sugar,Store A,6,117.2
+10/26/2023,Sugar,Store C,44,93.96
+5/11/2022,Chocolate Chip,Store D,9,78.14
+10/24/2023,Peanut Butter,Store D,45,123.98
+11/5/2022,Snickerdoodle,Store C,36,25.95
+12/10/2022,Sugar,Store C,43,187.82
+5/7/2023,Chocolate Chip,Store D,20,2.2
+2/18/2023,Snickerdoodle,Store C,18,203.09
+1/21/2023,Peanut Butter,Store B,43,87.71
+7/11/2022,Sugar,Store B,21,30.66
+10/4/2022,Snickerdoodle,Store B,4,57.91
+6/10/2022,Snickerdoodle,Store D,33,30.24
+4/5/2023,Snickerdoodle,Store C,27,29.75
+11/10/2022,Sugar,Store C,7,77.97
+1/22/2022,Sugar,Store A,6,66.36
+9/10/2022,Oatmeal Raisin,Store A,15,18.62
+7/15/2023,Peanut Butter,Store C,18,93.29
+4/20/2023,Chocolate Chip,Store C,32,120.63
+2/28/2022,Snickerdoodle,Store C,11,21.95
+5/26/2023,Oatmeal Raisin,Store D,20,15.48
+11/13/2023,Chocolate Chip,Store C,24,23.58
+4/21/2023,Oatmeal Raisin,Store A,15,87.08
+12/1/2023,Sugar,Store D,48,34.98
+7/9/2022,Snickerdoodle,Store C,7,3.36
+11/18/2023,Chocolate Chip,Store A,21,154.07
+7/17/2023,Chocolate Chip,Store D,42,61.39
+7/21/2023,Chocolate Chip,Store C,26,131.22
+9/1/2022,Chocolate Chip,Store C,44,53.59
+5/20/2023,Chocolate Chip,Store C,14,129.35
+5/11/2022,Oatmeal Raisin,Store D,37,166.47
+4/30/2023,Snickerdoodle,Store A,21,80.34
+10/9/2023,Sugar,Store A,18,71.55
+1/21/2022,Sugar,Store B,5,138.77
+6/16/2022,Sugar,Store C,3,106.39
+10/1/2022,Sugar,Store B,23,142.57
+1/23/2023,Oatmeal Raisin,Store B,26,40.73
+8/24/2023,Peanut Butter,Store A,37,32.75
+11/12/2022,Snickerdoodle,Store D,24,167.82
+1/14/2022,Chocolate Chip,Store D,49,99.48
+8/30/2022,Peanut Butter,Store A,19,11.52
+12/12/2022,Sugar,Store D,25,53.45
+7/19/2023,Peanut Butter,Store B,21,59.33
+12/6/2022,Snickerdoodle,Store C,12,93.48
+4/2/2022,Chocolate Chip,Store A,41,189.27
+1/2/2023,Chocolate Chip,Store C,33,26.5
+3/31/2023,Snickerdoodle,Store D,4,111.45
+3/4/2023,Snickerdoodle,Store C,42,137.25
+5/24/2023,Sugar,Store D,7,52.67
+2/4/2022,Chocolate Chip,Store D,22,28.04
+7/25/2022,Peanut Butter,Store B,33,90.3
+3/22/2022,Oatmeal Raisin,Store D,17,240.57
+7/16/2023,Oatmeal Raisin,Store B,24,93.76
+1/23/2023,Snickerdoodle,Store B,34,3.17
+1/2/2022,Sugar,Store B,28,185.8
+1/25/2023,Oatmeal Raisin,Store A,43,80.58
+7/20/2023,Chocolate Chip,Store A,41,165.02
+4/16/2022,Snickerdoodle,Store D,39,86.88
+4/22/2023,Peanut Butter,Store B,22,49.18
+12/4/2023,Snickerdoodle,Store A,49,15.36
+2/6/2023,Peanut Butter,Store B,17,32.87
+12/31/2023,Snickerdoodle,Store C,34,87.36
+7/10/2023,Snickerdoodle,Store C,6,66.17
+6/11/2022,Snickerdoodle,Store C,46,6.39
+7/21/2022,Peanut Butter,Store D,6,156.41
+9/27/2022,Peanut Butter,Store B,34,116.86
+9/28/2022,Snickerdoodle,Store C,1,6.81
+4/1/2023,Oatmeal Raisin,Store A,10,106.75
+4/7/2023,Sugar,Store C,21,124.79
+12/28/2023,Sugar,Store C,5,208.16
+9/9/2022,Sugar,Store C,2,213.69
+12/3/2023,Peanut Butter,Store D,22,122.6
+10/23/2022,Peanut Butter,Store A,48,63.31
+12/26/2023,Oatmeal Raisin,Store B,2,56.47
+12/21/2023,Sugar,Store A,10,47.26
+12/4/2022,Sugar,Store B,34,93.84
+2/22/2022,Snickerdoodle,Store D,16,78.67
+8/5/2022,Peanut Butter,Store D,48,91.67
+7/7/2022,Sugar,Store D,39,69.89
+1/15/2023,Oatmeal Raisin,Store D,22,148.21
+5/8/2023,Oatmeal Raisin,Store B,12,162.11
+2/10/2022,Sugar,Store C,24,80.57
+6/6/2022,Peanut Butter,Store B,47,121.49
+1/15/2022,Oatmeal Raisin,Store A,40,3.73
+3/6/2022,Snickerdoodle,Store D,38,120.06
+6/5/2023,Oatmeal Raisin,Store D,10,69.47
+12/10/2022,Chocolate Chip,Store A,35,115.66
+5/9/2022,Chocolate Chip,Store B,49,108.33
+10/10/2023,Peanut Butter,Store C,32,155.47
+4/17/2023,Sugar,Store C,7,30.2
+3/4/2022,Peanut Butter,Store A,21,25.16
+5/19/2022,Peanut Butter,Store C,20,110.77
+5/14/2023,Peanut Butter,Store B,26,63.63
+8/16/2023,Peanut Butter,Store B,4,6.87
+1/27/2023,Snickerdoodle,Store A,46,76.59
+11/6/2023,Snickerdoodle,Store B,22,67.21
+2/23/2023,Oatmeal Raisin,Store D,15,100.12
+10/16/2022,Chocolate Chip,Store A,40,27.6
+1/14/2023,Peanut Butter,Store B,21,92.59
+5/5/2023,Oatmeal Raisin,Store A,15,77.64
+8/19/2022,Chocolate Chip,Store C,22,40.25
+2/10/2022,Sugar,Store B,28,72.75
+1/28/2022,Snickerdoodle,Store D,14,78.05
+5/15/2022,Chocolate Chip,Store B,27,54.3
+7/20/2022,Sugar,Store A,41,79.51
+2/2/2022,Chocolate Chip,Store A,40,61.54
+2/17/2022,Snickerdoodle,Store B,28,147.03
+5/18/2023,Snickerdoodle,Store D,26,9.33
+2/11/2023,Oatmeal Raisin,Store D,49,81.91
+7/28/2023,Peanut Butter,Store D,2,126.62
+12/29/2023,Chocolate Chip,Store A,25,14.88
+4/9/2022,Chocolate Chip,Store B,3,54.08
+11/15/2023,Sugar,Store C,8,61.19
+12/27/2023,Snickerdoodle,Store A,44,89.29
+7/1/2023,Chocolate Chip,Store D,33,16.75
+9/5/2023,Snickerdoodle,Store B,42,84.6
+4/7/2023,Chocolate Chip,Store D,35,14.8
+10/5/2023,Oatmeal Raisin,Store C,6,102.62
+1/5/2022,Peanut Butter,Store D,39,22.44
+8/6/2022,Chocolate Chip,Store D,23,7.04
+5/18/2023,Snickerdoodle,Store C,25,131.28
+2/2/2023,Oatmeal Raisin,Store B,43,35.03
+1/28/2023,Chocolate Chip,Store A,19,236.67
+7/26/2022,Sugar,Store B,5,74.73
+1/15/2022,Peanut Butter,Store C,11,139.69
+7/8/2023,Chocolate Chip,Store D,12,59.21
+4/6/2023,Oatmeal Raisin,Store B,10,143.23
+11/22/2023,Sugar,Store A,8,105.97
+7/29/2023,Oatmeal Raisin,Store C,24,78.77
+8/29/2022,Oatmeal Raisin,Store B,28,168.14
+7/18/2023,Sugar,Store A,41,59.7
+4/6/2022,Oatmeal Raisin,Store C,36,84.6
+4/30/2023,Sugar,Store A,37,152.96
+2/11/2023,Chocolate Chip,Store C,21,43.31
+8/19/2022,Sugar,Store D,8,51.29
+10/17/2023,Sugar,Store B,9,107.59
+6/20/2022,Peanut Butter,Store A,47,19.21
+6/25/2023,Sugar,Store C,15,111.79
+2/5/2022,Sugar,Store A,48,159.61
+6/9/2023,Chocolate Chip,Store A,46,236.19
+6/9/2022,Peanut Butter,Store B,40,4.15
+11/30/2023,Snickerdoodle,Store D,18,51.65
+8/31/2022,Chocolate Chip,Store A,42,6.34
+3/27/2022,Chocolate Chip,Store C,20,120.42
+8/1/2023,Snickerdoodle,Store C,6,7.1
+11/13/2023,Sugar,Store D,12,78.59
+7/11/2023,Oatmeal Raisin,Store C,2,95.83
+7/28/2023,Peanut Butter,Store D,7,41.39
+10/8/2023,Oatmeal Raisin,Store C,16,170.41
+1/28/2022,Snickerdoodle,Store B,3,92.42
+9/12/2023,Chocolate Chip,Store A,45,68.17
+7/10/2023,Chocolate Chip,Store B,3,50.9
+12/6/2022,Peanut Butter,Store A,27,58.2
+11/27/2022,Chocolate Chip,Store A,43,41.24
+10/2/2023,Chocolate Chip,Store A,40,218.12
+5/21/2023,Peanut Butter,Store B,38,34.51
+12/14/2022,Peanut Butter,Store A,33,171.13
+4/18/2023,Snickerdoodle,Store B,28,56.93
+8/19/2022,Chocolate Chip,Store D,1,55.14
+7/9/2022,Chocolate Chip,Store C,8,107.24
+8/13/2022,Snickerdoodle,Store C,37,20.26
+1/20/2023,Sugar,Store A,32,11
+1/12/2023,Sugar,Store B,48,147.02
+10/10/2022,Sugar,Store C,43,68.89
+9/25/2023,Snickerdoodle,Store B,37,152.79
+9/20/2023,Chocolate Chip,Store B,4,168.01
+9/16/2022,Snickerdoodle,Store A,30,89.99
+12/25/2022,Snickerdoodle,Store C,6,57.76
+12/11/2023,Sugar,Store A,46,11.57
+4/1/2023,Oatmeal Raisin,Store A,19,127.4
+2/15/2023,Chocolate Chip,Store C,32,89.58
+10/11/2023,Sugar,Store C,9,34.8
+11/14/2022,Oatmeal Raisin,Store D,12,116.58
+11/8/2023,Oatmeal Raisin,Store D,11,98.04
+8/13/2022,Peanut Butter,Store B,46,63.22
+8/22/2022,Chocolate Chip,Store C,16,165.6
+11/15/2023,Oatmeal Raisin,Store D,1,108.43
+10/26/2023,Sugar,Store B,45,14.48
+1/9/2023,Peanut Butter,Store B,21,140.8
+11/3/2023,Chocolate Chip,Store B,30,27.5
+8/31/2023,Snickerdoodle,Store D,13,106.41
+4/17/2023,Sugar,Store C,34,116.55
+8/21/2022,Oatmeal Raisin,Store A,4,27.79
+11/23/2023,Oatmeal Raisin,Store B,28,30.31
+4/23/2022,Sugar,Store D,38,18.99
+5/12/2023,Oatmeal Raisin,Store D,31,105.36
+3/18/2023,Peanut Butter,Store A,27,80.31
+7/18/2023,Chocolate Chip,Store A,5,212.12
+9/25/2022,Peanut Butter,Store D,25,70.54
+5/25/2023,Oatmeal Raisin,Store C,3,94.85
+1/21/2023,Snickerdoodle,Store A,33,11.36
+1/22/2023,Chocolate Chip,Store D,4,14.73
+4/23/2022,Chocolate Chip,Store A,25,78.05
+9/5/2023,Sugar,Store C,20,4.23
+9/17/2023,Sugar,Store B,34,4.53
+3/22/2022,Snickerdoodle,Store A,26,99.55
+11/30/2023,Chocolate Chip,Store C,5,144.8
+4/23/2022,Snickerdoodle,Store D,35,38.89
+1/2/2022,Sugar,Store A,28,84.79
+10/4/2023,Sugar,Store A,29,155.33
+8/8/2022,Chocolate Chip,Store D,9,39.7
+7/20/2023,Peanut Butter,Store B,38,162.07
+8/13/2022,Oatmeal Raisin,Store D,6,64.71
+1/20/2023,Sugar,Store A,19,35.56
+2/7/2023,Sugar,Store D,44,37.03
+9/30/2023,Peanut Butter,Store C,11,134.75
+5/10/2022,Peanut Butter,Store D,2,138.72
+2/22/2022,Snickerdoodle,Store A,47,26.71
+11/15/2023,Snickerdoodle,Store D,44,165.02
+12/31/2023,Oatmeal Raisin,Store B,44,98.18
+11/3/2023,Oatmeal Raisin,Store D,9,68.07
+12/11/2023,Chocolate Chip,Store B,21,104.17
+2/20/2023,Snickerdoodle,Store C,24,121.34
+9/4/2022,Sugar,Store B,34,66.7
+3/15/2023,Snickerdoodle,Store D,22,66.51
+7/22/2022,Sugar,Store A,3,53.91
+7/3/2022,Peanut Butter,Store B,12,2.22
+5/3/2022,Snickerdoodle,Store C,28,38.48
+2/5/2023,Peanut Butter,Store B,30,69.66
+10/21/2022,Oatmeal Raisin,Store B,26,177.33
+10/7/2022,Oatmeal Raisin,Store B,48,153.89
+9/2/2023,Chocolate Chip,Store C,21,2.93
+7/17/2022,Snickerdoodle,Store D,28,4.34
+5/26/2023,Peanut Butter,Store B,26,185.87
+5/24/2022,Sugar,Store B,33,111.83
+9/1/2023,Oatmeal Raisin,Store A,21,82.48
+7/20/2022,Oatmeal Raisin,Store C,35,62.98
+5/4/2022,Sugar,Store B,34,64.45
+7/6/2022,Peanut Butter,Store C,41,44.67
+11/22/2022,Peanut Butter,Store B,47,173.49
+4/9/2023,Snickerdoodle,Store D,18,118.54
+12/15/2022,Snickerdoodle,Store D,11,111.99
+10/22/2023,Chocolate Chip,Store B,23,47.81
+2/7/2023,Oatmeal Raisin,Store D,48,13.05
+12/12/2022,Snickerdoodle,Store B,22,91.53
+5/26/2023,Peanut Butter,Store D,17,71.05
+5/27/2022,Sugar,Store A,5,25.5
+5/28/2022,Peanut Butter,Store A,44,76.91
+12/12/2023,Oatmeal Raisin,Store A,11,43.27
+5/4/2023,Peanut Butter,Store C,30,28.75
+10/2/2023,Chocolate Chip,Store C,15,186.42
+7/5/2023,Oatmeal Raisin,Store A,27,38.95
+12/4/2022,Sugar,Store C,35,123.11
+10/3/2023,Chocolate Chip,Store D,33,35.89
+4/18/2023,Oatmeal Raisin,Store B,20,103.79
+5/31/2022,Sugar,Store B,16,9.03
+2/19/2023,Chocolate Chip,Store B,34,141.84
+10/25/2022,Chocolate Chip,Store A,2,224.66
+9/3/2023,Oatmeal Raisin,Store C,35,31.99
+9/20/2022,Snickerdoodle,Store D,40,179.57
+5/24/2022,Chocolate Chip,Store D,28,32.77
+12/12/2022,Chocolate Chip,Store A,47,67.04
+9/16/2023,Sugar,Store D,39,80.44
+7/26/2023,Peanut Butter,Store D,6,33.28
+1/2/2022,Oatmeal Raisin,Store D,9,129.29
+10/31/2022,Oatmeal Raisin,Store D,20,123.82
+9/11/2022,Snickerdoodle,Store C,1,152.56
+10/14/2023,Snickerdoodle,Store D,8,12.81
+3/29/2023,Oatmeal Raisin,Store B,23,13.99
+2/6/2022,Snickerdoodle,Store A,3,102.45
+6/9/2022,Sugar,Store C,4,211.85
+1/9/2022,Oatmeal Raisin,Store D,25,113.78
+8/21/2022,Snickerdoodle,Store C,47,103.5
+4/9/2022,Oatmeal Raisin,Store D,38,97.79
+10/21/2023,Peanut Butter,Store B,15,92.75
+7/27/2022,Chocolate Chip,Store A,21,179.24
+5/11/2022,Oatmeal Raisin,Store D,35,8.87
+2/8/2023,Chocolate Chip,Store D,46,88.55
+6/1/2022,Snickerdoodle,Store D,14,79.65
+2/23/2022,Chocolate Chip,Store D,36,12.51
+4/30/2022,Oatmeal Raisin,Store A,12,25.39
+11/4/2023,Peanut Butter,Store A,17,63.78
+9/20/2023,Snickerdoodle,Store B,39,19.33
+8/10/2023,Oatmeal Raisin,Store A,9,28.02
+9/17/2023,Snickerdoodle,Store D,35,34
+2/24/2023,Sugar,Store B,13,50.48
+2/26/2023,Chocolate Chip,Store B,15,32.99
+4/14/2022,Sugar,Store B,18,28
+9/11/2022,Oatmeal Raisin,Store D,33,182.89
+8/15/2022,Peanut Butter,Store C,6,27.88
+4/22/2022,Snickerdoodle,Store D,27,62.67
+5/25/2023,Chocolate Chip,Store A,23,141.09
+4/18/2023,Snickerdoodle,Store A,27,131.25
+4/9/2022,Oatmeal Raisin,Store D,34,209.67
+6/2/2022,Snickerdoodle,Store D,46,153.87
+12/4/2022,Chocolate Chip,Store B,38,66.98
+12/7/2023,Oatmeal Raisin,Store D,14,140.01
+6/12/2022,Snickerdoodle,Store B,36,59.2
+12/21/2023,Peanut Butter,Store A,8,94.47
+11/12/2023,Oatmeal Raisin,Store B,35,141.52
+6/10/2022,Oatmeal Raisin,Store D,19,141.8
+8/3/2023,Peanut Butter,Store A,30,144.51
+2/2/2023,Sugar,Store C,14,118.04
+10/4/2022,Chocolate Chip,Store B,20,190.29
+5/19/2023,Sugar,Store A,49,87.33
+1/27/2023,Snickerdoodle,Store B,25,65.01
+5/15/2022,Peanut Butter,Store A,40,45.47
+7/14/2022,Sugar,Store A,24,34.47
+2/5/2023,Oatmeal Raisin,Store B,14,193.41
+10/2/2023,Snickerdoodle,Store C,26,3.95
+2/2/2022,Snickerdoodle,Store A,38,141.56
+11/19/2023,Sugar,Store A,23,110.95
+4/5/2023,Sugar,Store A,22,173.33
+4/15/2023,Peanut Butter,Store C,48,42.08
+1/10/2023,Chocolate Chip,Store C,19,16.99
+1/22/2022,Sugar,Store D,46,28.99
+11/1/2023,Sugar,Store B,3,157.31
+2/7/2022,Oatmeal Raisin,Store C,42,195.39
+8/18/2022,Snickerdoodle,Store B,19,42.68
+12/31/2022,Chocolate Chip,Store D,9,74.64
+7/17/2023,Oatmeal Raisin,Store B,28,17.75
+3/14/2023,Peanut Butter,Store C,20,61.6
+10/10/2022,Peanut Butter,Store B,45,63.41
+1/27/2022,Sugar,Store C,7,137.09
+8/14/2022,Sugar,Store B,14,48.51
+10/4/2022,Peanut Butter,Store C,9,9.29
+9/1/2023,Sugar,Store C,19,178.52
+10/11/2022,Chocolate Chip,Store B,47,113.36
+4/26/2023,Sugar,Store D,14,95.55
+3/29/2023,Snickerdoodle,Store A,38,156.31
+10/21/2023,Sugar,Store D,36,75.64
+5/31/2023,Oatmeal Raisin,Store B,40,6.53
+7/1/2023,Chocolate Chip,Store D,17,124.45
+7/11/2022,Oatmeal Raisin,Store C,30,13.56
+2/18/2022,Oatmeal Raisin,Store A,9,17.02
+5/27/2023,Snickerdoodle,Store B,33,103.2
+1/17/2022,Chocolate Chip,Store B,25,51.52
+6/21/2022,Chocolate Chip,Store B,14,124.18
+8/8/2022,Chocolate Chip,Store A,11,60.79
+6/7/2022,Chocolate Chip,Store C,35,40.76
+4/22/2023,Chocolate Chip,Store B,41,79.97
+2/15/2022,Snickerdoodle,Store D,14,116.29
+1/8/2023,Sugar,Store B,30,5.03
+6/2/2023,Oatmeal Raisin,Store B,41,36.4
+4/9/2022,Chocolate Chip,Store B,4,26.98
+2/6/2022,Sugar,Store B,4,188.69
+10/7/2022,Sugar,Store C,28,92.69
+12/15/2022,Oatmeal Raisin,Store D,8,154.86
+5/12/2023,Snickerdoodle,Store C,2,56.02
+10/29/2022,Peanut Butter,Store D,41,154.52
+6/30/2022,Peanut Butter,Store B,46,140.14
+8/30/2023,Sugar,Store A,22,15.43
+4/9/2022,Oatmeal Raisin,Store C,41,146.64
+12/1/2023,Peanut Butter,Store A,16,30.27
+4/26/2022,Sugar,Store C,29,17.11
+7/10/2022,Snickerdoodle,Store B,49,72.69
+9/10/2022,Peanut Butter,Store C,48,100.38
+6/10/2022,Sugar,Store B,30,93
+9/13/2022,Sugar,Store C,12,158
+11/19/2022,Chocolate Chip,Store B,35,120.11
+5/8/2022,Snickerdoodle,Store B,11,93.48
+1/18/2022,Chocolate Chip,Store D,46,14.58
+7/20/2023,Oatmeal Raisin,Store B,21,52.18
+7/24/2023,Chocolate Chip,Store D,21,25.46
+11/19/2022,Chocolate Chip,Store B,5,115.01
+11/17/2023,Peanut Butter,Store A,48,132.65
+9/18/2023,Sugar,Store B,20,15.6
+10/15/2022,Snickerdoodle,Store A,37,77.24
+10/25/2023,Chocolate Chip,Store A,3,39.06
+10/1/2023,Snickerdoodle,Store B,44,16.85
+6/4/2022,Chocolate Chip,Store A,33,153.78
+5/5/2023,Oatmeal Raisin,Store D,9,157.33
+1/21/2023,Chocolate Chip,Store C,9,69.3
+4/14/2022,Peanut Butter,Store B,4,55.69
+1/28/2023,Sugar,Store A,35,87.86
+9/3/2022,Oatmeal Raisin,Store B,17,94.85
+6/25/2022,Chocolate Chip,Store D,34,37.15
+2/8/2022,Snickerdoodle,Store B,24,68.63
+4/22/2023,Oatmeal Raisin,Store B,32,24.72
+11/13/2023,Oatmeal Raisin,Store A,1,49.34
+6/22/2023,Chocolate Chip,Store D,8,18.07
+2/12/2023,Oatmeal Raisin,Store C,45,236.7
+6/9/2023,Snickerdoodle,Store C,23,5.21
+5/21/2023,Oatmeal Raisin,Store A,47,139.25
+2/5/2022,Snickerdoodle,Store B,40,23.41
+11/16/2023,Chocolate Chip,Store A,12,210.59
+1/20/2022,Sugar,Store A,12,32.24
+11/17/2022,Oatmeal Raisin,Store A,46,93.2
+5/27/2023,Sugar,Store B,47,16.33
+2/4/2023,Snickerdoodle,Store D,15,15.86
+10/16/2023,Oatmeal Raisin,Store A,41,50.65
+4/16/2023,Peanut Butter,Store B,19,111.23
+5/23/2022,Sugar,Store D,26,54.94
+4/2/2022,Oatmeal Raisin,Store A,29,12.12
+12/20/2022,Sugar,Store C,22,71
+12/28/2023,Oatmeal Raisin,Store D,40,70.19
+2/20/2022,Chocolate Chip,Store A,21,14.64
+10/27/2023,Sugar,Store D,38,87.71
+11/29/2023,Peanut Butter,Store D,20,83.57
+7/29/2023,Peanut Butter,Store D,29,4.89
+7/9/2022,Snickerdoodle,Store D,4,72.25
+5/5/2022,Oatmeal Raisin,Store D,7,38.93
+5/30/2022,Sugar,Store D,28,84.7
+11/10/2022,Snickerdoodle,Store A,28,53.13
+7/24/2023,Sugar,Store C,4,33.03
+12/8/2022,Oatmeal Raisin,Store B,22,76.53
+11/1/2022,Peanut Butter,Store D,12,10.79
+11/23/2023,Chocolate Chip,Store B,45,33.14
+11/13/2023,Peanut Butter,Store A,3,45.24
+2/23/2022,Snickerdoodle,Store D,22,56.03
+3/20/2023,Chocolate Chip,Store C,44,21.74
+9/5/2023,Snickerdoodle,Store B,2,160.96
+9/21/2022,Oatmeal Raisin,Store D,24,42.81
+2/22/2022,Chocolate Chip,Store A,34,189.44
+7/26/2023,Snickerdoodle,Store C,27,162.9
+9/12/2023,Oatmeal Raisin,Store B,41,32.72
+1/5/2022,Peanut Butter,Store B,1,59.69
+4/13/2022,Oatmeal Raisin,Store D,8,24.49
+7/15/2022,Sugar,Store C,23,68.24
+12/16/2022,Oatmeal Raisin,Store C,38,212.97
+2/16/2022,Oatmeal Raisin,Store C,6,24.07
+10/18/2023,Sugar,Store C,22,87.92
+9/26/2022,Snickerdoodle,Store A,25,46.96
+1/5/2023,Snickerdoodle,Store C,18,144.2
+9/28/2023,Oatmeal Raisin,Store B,17,101.95
+4/16/2022,Sugar,Store B,12,128.53
+11/1/2023,Sugar,Store A,6,75.11
+10/21/2023,Peanut Butter,Store B,26,160.04
+10/19/2023,Snickerdoodle,Store B,27,189.79
+4/30/2022,Chocolate Chip,Store C,8,182.38
+8/27/2023,Snickerdoodle,Store B,19,73.21
+2/27/2022,Snickerdoodle,Store A,42,15.54
+12/12/2022,Peanut Butter,Store C,1,49.56
+4/19/2023,Chocolate Chip,Store D,29,100.21
+4/27/2022,Peanut Butter,Store C,45,141.49
+5/7/2022,Chocolate Chip,Store A,49,145.55
+1/28/2023,Oatmeal Raisin,Store C,35,118.76
+10/3/2023,Chocolate Chip,Store C,40,110.98
+2/27/2022,Peanut Butter,Store A,14,30.24
+9/26/2023,Snickerdoodle,Store C,35,134.88
+5/28/2023,Chocolate Chip,Store A,48,236.14
+4/6/2022,Chocolate Chip,Store A,45,63.13
+9/30/2023,Sugar,Store D,20,15.29
+4/28/2022,Snickerdoodle,Store B,49,105.61
+7/14/2023,Oatmeal Raisin,Store B,13,20.07
+8/24/2023,Peanut Butter,Store C,38,45.31
+5/3/2023,Oatmeal Raisin,Store C,49,98.72
+8/25/2022,Snickerdoodle,Store D,46,63.4
+9/29/2022,Chocolate Chip,Store D,49,52.92
+7/8/2022,Chocolate Chip,Store D,8,135.92
+12/5/2023,Snickerdoodle,Store A,43,28.22
+3/23/2023,Chocolate Chip,Store D,20,26.04
+8/4/2023,Chocolate Chip,Store D,33,7.13
+9/4/2022,Chocolate Chip,Store C,26,43.76
+3/17/2022,Peanut Butter,Store D,39,156.74
+6/3/2022,Peanut Butter,Store A,21,42.25
+10/18/2023,Sugar,Store A,49,43.99
+3/11/2023,Oatmeal Raisin,Store C,42,29.12
+3/27/2022,Snickerdoodle,Store D,43,107.67
+11/28/2023,Snickerdoodle,Store D,41,82.28
+10/12/2022,Snickerdoodle,Store A,9,142.99
+8/8/2022,Sugar,Store D,24,40.25
+3/10/2022,Peanut Butter,Store D,37,37.91
+2/16/2022,Sugar,Store D,49,13.5
+4/4/2022,Snickerdoodle,Store B,41,107.7
+3/29/2023,Oatmeal Raisin,Store C,17,101.76
+7/23/2022,Chocolate Chip,Store B,24,80.79
+8/6/2022,Peanut Butter,Store C,21,146
+4/19/2023,Peanut Butter,Store A,39,195.1
+3/8/2023,Sugar,Store D,41,152.19
+12/7/2022,Peanut Butter,Store C,39,46.26
+7/5/2023,Snickerdoodle,Store B,13,23.19
+9/4/2023,Snickerdoodle,Store D,11,19.32
+10/16/2022,Sugar,Store A,46,172.95
+9/11/2022,Snickerdoodle,Store C,19,8.64
+12/23/2022,Oatmeal Raisin,Store C,11,113.89
+1/23/2022,Sugar,Store C,13,128.64
+6/6/2023,Oatmeal Raisin,Store D,46,91.93
+4/10/2022,Chocolate Chip,Store B,45,33.01
+6/29/2022,Oatmeal Raisin,Store B,1,29.27
+8/11/2022,Chocolate Chip,Store C,40,28.7
+10/21/2023,Chocolate Chip,Store A,44,191.89
+3/18/2023,Oatmeal Raisin,Store A,19,152.95
+8/31/2023,Sugar,Store B,12,69.58
+11/21/2022,Snickerdoodle,Store A,8,33.59
+5/31/2023,Snickerdoodle,Store B,8,61.39
+1/16/2022,Chocolate Chip,Store C,45,152.46
+12/2/2022,Chocolate Chip,Store B,12,57.53
+9/15/2022,Sugar,Store B,48,41.5
+5/12/2023,Peanut Butter,Store C,33,100.42
+6/9/2022,Oatmeal Raisin,Store A,45,97.31
+4/20/2023,Chocolate Chip,Store B,26,30.66
+10/26/2023,Snickerdoodle,Store B,39,21.28
+11/21/2023,Sugar,Store C,28,80.35
+11/6/2023,Oatmeal Raisin,Store A,5,59.29
+1/15/2023,Sugar,Store B,8,85.3
+6/29/2023,Oatmeal Raisin,Store C,25,111.14
+11/22/2023,Oatmeal Raisin,Store B,27,86.9
+3/3/2023,Chocolate Chip,Store D,46,143.3
+9/5/2023,Sugar,Store C,23,45.27
+9/25/2022,Sugar,Store A,30,176.75
+7/31/2023,Snickerdoodle,Store A,45,51.72
+2/21/2023,Snickerdoodle,Store A,47,100.89
+6/17/2022,Chocolate Chip,Store A,23,40.37
+2/12/2022,Chocolate Chip,Store B,49,42.75
+7/10/2023,Peanut Butter,Store B,47,15.77
+10/12/2022,Snickerdoodle,Store A,20,17.88
+2/1/2023,Oatmeal Raisin,Store A,18,146.66
+1/12/2022,Sugar,Store A,18,62.77
+8/30/2023,Chocolate Chip,Store B,2,93.35
+10/29/2022,Sugar,Store A,4,14.23
+9/10/2022,Sugar,Store A,30,28.03
+5/14/2023,Peanut Butter,Store D,33,150.32
+2/4/2022,Snickerdoodle,Store D,36,137.89
+12/28/2023,Chocolate Chip,Store A,18,174.48
+3/31/2022,Sugar,Store C,37,45.81
+8/28/2023,Chocolate Chip,Store A,19,26.76
+8/25/2023,Oatmeal Raisin,Store D,47,86.59
+2/22/2023,Peanut Butter,Store C,28,36.68
+4/25/2022,Oatmeal Raisin,Store C,40,79.54
+9/9/2023,Chocolate Chip,Store A,20,103.27
+7/15/2022,Chocolate Chip,Store D,49,132.99
+5/16/2023,Snickerdoodle,Store D,33,86.99
+9/18/2023,Sugar,Store C,12,97.45
+5/8/2023,Sugar,Store A,15,11.32
+3/16/2022,Oatmeal Raisin,Store B,41,90.44
+2/17/2023,Peanut Butter,Store B,39,5.17
+1/11/2023,Sugar,Store D,2,52.25
+2/24/2023,Snickerdoodle,Store B,29,105.68
+12/30/2023,Oatmeal Raisin,Store D,41,53.99
+10/4/2022,Oatmeal Raisin,Store D,10,49.48
+11/7/2023,Snickerdoodle,Store D,2,13.69
+1/29/2023,Peanut Butter,Store B,11,158.4
+4/2/2023,Snickerdoodle,Store D,13,127.88
+7/11/2022,Peanut Butter,Store C,10,115.98
+11/20/2023,Snickerdoodle,Store A,14,89.27
+4/9/2022,Snickerdoodle,Store A,18,111.2
+7/2/2023,Chocolate Chip,Store D,9,89.88
+4/6/2022,Oatmeal Raisin,Store A,39,35.63
+10/26/2023,Snickerdoodle,Store B,28,140.6
+10/25/2023,Snickerdoodle,Store B,3,139.02
+7/9/2022,Sugar,Store A,20,164.42
+2/6/2022,Oatmeal Raisin,Store B,6,40.9
+1/4/2023,Sugar,Store A,27,135.1
+11/26/2023,Oatmeal Raisin,Store A,2,123.72
+6/9/2023,Sugar,Store A,29,29.35
+10/6/2022,Snickerdoodle,Store D,38,84.96
+8/5/2022,Snickerdoodle,Store A,3,85.61
+9/30/2022,Chocolate Chip,Store D,16,147.03
+3/3/2022,Sugar,Store A,30,26.6
+8/19/2023,Peanut Butter,Store A,40,211.77
+12/30/2023,Chocolate Chip,Store A,2,61.79
+12/8/2022,Sugar,Store B,17,60.74
+2/1/2023,Sugar,Store D,41,32.73
+11/30/2023,Chocolate Chip,Store D,12,65.96
+1/19/2022,Snickerdoodle,Store A,35,15.43
+6/26/2022,Sugar,Store A,43,38.29
+9/4/2023,Snickerdoodle,Store B,1,19.64
+1/31/2023,Chocolate Chip,Store B,45,46.07
+3/21/2023,Snickerdoodle,Store B,15,43.96
+8/21/2022,Oatmeal Raisin,Store D,26,22.86
+3/17/2022,Peanut Butter,Store D,37,55.76
+9/22/2022,Sugar,Store D,21,88.34
+3/31/2023,Peanut Butter,Store A,49,16.25
+12/19/2023,Snickerdoodle,Store D,31,95.77
+1/19/2023,Sugar,Store C,25,90.85
+7/18/2023,Snickerdoodle,Store C,23,60.94
+5/21/2023,Oatmeal Raisin,Store B,24,20.37
+1/2/2023,Chocolate Chip,Store D,38,87.36
+5/24/2022,Sugar,Store C,28,41.56
+3/10/2022,Oatmeal Raisin,Store B,21,98.51
+4/9/2022,Oatmeal Raisin,Store D,43,84.94
+1/31/2023,Sugar,Store A,18,13.08
+1/25/2022,Snickerdoodle,Store C,36,9.11
+4/14/2023,Oatmeal Raisin,Store A,35,63.03
+4/29/2023,Peanut Butter,Store D,45,152.34
+7/19/2023,Oatmeal Raisin,Store C,9,70.76
+5/31/2022,Snickerdoodle,Store D,38,52.76
+5/24/2022,Snickerdoodle,Store A,30,100.4
+7/23/2023,Peanut Butter,Store C,44,48.71
+2/8/2022,Oatmeal Raisin,Store A,34,70.32
+4/19/2022,Snickerdoodle,Store D,32,92.33
+11/24/2023,Sugar,Store D,3,113.37
+2/11/2022,Chocolate Chip,Store A,3,110.37
+7/5/2022,Chocolate Chip,Store C,28,5.91
+2/2/2023,Chocolate Chip,Store A,44,30.01
+8/11/2022,Oatmeal Raisin,Store D,15,6.79
+9/26/2023,Peanut Butter,Store A,41,7.88
+5/13/2022,Snickerdoodle,Store D,23,94.98
+6/12/2022,Sugar,Store A,40,35.72
+8/3/2022,Sugar,Store C,11,104.01
+8/23/2022,Oatmeal Raisin,Store C,48,47.07
+10/20/2023,Chocolate Chip,Store A,32,72.75
+8/11/2023,Oatmeal Raisin,Store A,36,170.66
+1/9/2022,Peanut Butter,Store C,33,131.19
+3/15/2022,Peanut Butter,Store D,24,59.02
+5/7/2023,Snickerdoodle,Store C,39,155.65
+9/10/2022,Snickerdoodle,Store D,34,45.85
+8/18/2022,Peanut Butter,Store A,28,2.68
+6/3/2023,Peanut Butter,Store A,37,22
+6/23/2022,Peanut Butter,Store D,7,82.37
+10/15/2023,Oatmeal Raisin,Store A,4,8.89
+6/17/2022,Peanut Butter,Store D,37,20.1
+6/19/2022,Sugar,Store B,1,120.51
+1/28/2023,Chocolate Chip,Store C,1,104.11
+9/26/2023,Peanut Butter,Store B,47,39.33
+7/13/2022,Chocolate Chip,Store D,20,91.99
+6/1/2023,Oatmeal Raisin,Store C,19,26.58
+1/29/2022,Chocolate Chip,Store D,29,141.06
+6/14/2022,Oatmeal Raisin,Store C,10,19.16
+2/26/2023,Sugar,Store C,18,88.48
+12/5/2022,Oatmeal Raisin,Store C,28,110.8
+10/10/2023,Oatmeal Raisin,Store C,35,3.7
+5/11/2023,Snickerdoodle,Store D,43,183.78
+12/31/2022,Peanut Butter,Store C,47,66.82
+12/8/2022,Peanut Butter,Store C,31,64.47
+5/15/2023,Sugar,Store B,27,28.22
+10/19/2023,Sugar,Store A,11,6.75
+5/26/2023,Peanut Butter,Store A,49,185.91
+11/23/2022,Snickerdoodle,Store B,49,105
+8/5/2022,Peanut Butter,Store B,38,17.81
+10/28/2022,Snickerdoodle,Store D,5,140.7
+5/12/2022,Sugar,Store D,8,50.69
+3/11/2022,Chocolate Chip,Store D,34,111.03
+9/9/2022,Sugar,Store B,48,33.87
+2/19/2023,Sugar,Store B,12,85.68
+3/21/2023,Oatmeal Raisin,Store C,38,193.17
+7/1/2022,Oatmeal Raisin,Store D,1,50.48
+6/16/2022,Oatmeal Raisin,Store D,31,140.94
+4/1/2022,Oatmeal Raisin,Store D,4,5.29
+12/15/2023,Snickerdoodle,Store A,49,34.29
+6/15/2023,Peanut Butter,Store C,45,12.94
+2/8/2022,Chocolate Chip,Store D,5,195.56
+5/6/2022,Sugar,Store D,30,59.73
+3/27/2023,Snickerdoodle,Store D,24,84.99
+6/22/2022,Chocolate Chip,Store A,3,9.14
+10/15/2023,Snickerdoodle,Store A,11,140.28
+8/8/2022,Snickerdoodle,Store B,45,54.34
+9/30/2023,Sugar,Store C,4,9.78
+2/27/2022,Peanut Butter,Store B,26,51.99
+10/22/2023,Oatmeal Raisin,Store C,27,75.38
+4/21/2023,Peanut Butter,Store A,46,66.86
+4/1/2023,Sugar,Store D,43,78.8
+12/27/2022,Sugar,Store B,27,107.83
+1/1/2022,Sugar,Store D,42,96.55
+1/22/2023,Chocolate Chip,Store B,6,49.9
+12/14/2022,Peanut Butter,Store A,15,145.18
+7/9/2022,Peanut Butter,Store A,30,104.96
+5/20/2023,Snickerdoodle,Store A,42,74.92
+7/10/2022,Snickerdoodle,Store B,37,35.45
+5/23/2023,Snickerdoodle,Store C,37,114.96
+1/4/2023,Sugar,Store B,42,73.1
+2/13/2023,Peanut Butter,Store C,37,131.29
+4/27/2022,Sugar,Store B,35,115.62
+5/14/2022,Chocolate Chip,Store B,23,64.47
+2/27/2022,Snickerdoodle,Store A,6,170.93
+7/10/2023,Sugar,Store D,4,87.57
+11/16/2023,Sugar,Store D,18,30.59
+11/3/2023,Chocolate Chip,Store C,9,97.26
+6/22/2022,Oatmeal Raisin,Store D,49,103.03
+5/29/2022,Peanut Butter,Store B,29,130.95
+3/21/2022,Oatmeal Raisin,Store B,13,24.3
+8/1/2022,Snickerdoodle,Store A,47,146.73
+7/22/2022,Sugar,Store A,17,134.55
+8/17/2022,Chocolate Chip,Store D,45,88.91
+11/7/2023,Chocolate Chip,Store C,32,43.32
+8/15/2022,Peanut Butter,Store D,48,8.37
+10/21/2023,Oatmeal Raisin,Store D,22,42.52
+6/16/2023,Peanut Butter,Store D,4,169.47
+3/17/2023,Sugar,Store D,5,37.18
+2/6/2023,Peanut Butter,Store B,37,51.73
+2/16/2022,Chocolate Chip,Store C,41,86.14
+8/21/2022,Chocolate Chip,Store B,49,17.92
+11/1/2022,Snickerdoodle,Store C,13,38.49
+6/10/2023,Snickerdoodle,Store A,34,117.49
+5/23/2022,Sugar,Store D,45,139.33
+2/19/2023,Oatmeal Raisin,Store B,22,100.54
+5/28/2023,Peanut Butter,Store C,23,43.65
+1/8/2023,Sugar,Store A,3,180.04
+7/20/2023,Snickerdoodle,Store A,42,8.25
+9/16/2022,Peanut Butter,Store D,34,4.68
+10/18/2023,Snickerdoodle,Store C,32,149.6
+4/16/2023,Peanut Butter,Store B,45,86.16
+1/12/2022,Oatmeal Raisin,Store D,49,102.32
+11/26/2022,Sugar,Store B,21,9.22
+12/24/2022,Peanut Butter,Store A,46,109.3
+2/12/2023,Chocolate Chip,Store B,44,51.99
+10/30/2023,Chocolate Chip,Store B,21,4.1
+1/8/2023,Peanut Butter,Store D,44,91.6
+1/8/2022,Peanut Butter,Store B,11,60.11
+5/2/2022,Peanut Butter,Store D,39,29.38
+12/14/2022,Chocolate Chip,Store A,4,81.69
+11/7/2023,Chocolate Chip,Store D,1,72.76
+3/31/2022,Peanut Butter,Store D,28,46.91
+10/10/2023,Snickerdoodle,Store C,24,87.84
+11/29/2023,Snickerdoodle,Store B,35,71.69
+11/12/2022,Oatmeal Raisin,Store A,13,98.23
+6/27/2022,Sugar,Store D,47,32.75
+6/24/2023,Snickerdoodle,Store A,34,99.26
+2/10/2022,Chocolate Chip,Store C,11,24.77
+12/5/2023,Snickerdoodle,Store B,36,145.65
+5/17/2023,Oatmeal Raisin,Store D,17,51.12
+5/25/2022,Oatmeal Raisin,Store B,35,105.03
+7/20/2022,Sugar,Store C,18,53.32
+12/25/2023,Snickerdoodle,Store C,40,145.75
+4/6/2023,Chocolate Chip,Store A,22,29.42
+7/12/2023,Chocolate Chip,Store D,24,86.31
+7/1/2023,Peanut Butter,Store A,19,14.55
+9/10/2022,Chocolate Chip,Store C,37,172.32
+1/25/2023,Sugar,Store B,39,167.73
+8/17/2023,Sugar,Store A,21,94.89
+9/13/2022,Chocolate Chip,Store A,8,53.75
+12/10/2023,Chocolate Chip,Store B,28,30.36
+3/26/2023,Peanut Butter,Store A,5,62.9
+1/10/2022,Chocolate Chip,Store B,17,81.56
+8/30/2022,Peanut Butter,Store D,37,89.59
+9/8/2022,Peanut Butter,Store B,36,77.64
+1/5/2022,Chocolate Chip,Store D,19,125.96
+4/29/2022,Oatmeal Raisin,Store B,27,195.85
+1/9/2023,Oatmeal Raisin,Store C,34,152.03
+3/6/2022,Peanut Butter,Store C,11,83.26
+5/26/2022,Chocolate Chip,Store D,45,38.83
+8/12/2022,Oatmeal Raisin,Store D,47,68.76
+8/27/2022,Chocolate Chip,Store C,12,11.84
+6/26/2022,Chocolate Chip,Store D,21,64.15
+10/9/2022,Chocolate Chip,Store B,11,96.42
+3/4/2022,Snickerdoodle,Store B,39,72.41
+8/5/2022,Chocolate Chip,Store C,28,38.54
+11/20/2023,Snickerdoodle,Store A,5,8.09
+4/6/2023,Peanut Butter,Store B,17,18.31
+9/2/2023,Oatmeal Raisin,Store D,20,49.39
+4/15/2022,Oatmeal Raisin,Store A,41,138.03
+4/9/2022,Oatmeal Raisin,Store A,46,22.91
+5/26/2023,Oatmeal Raisin,Store B,12,149.52
+1/20/2023,Oatmeal Raisin,Store B,6,81.55
+2/9/2023,Oatmeal Raisin,Store A,17,65
+6/2/2023,Oatmeal Raisin,Store A,19,27.65
+4/21/2023,Peanut Butter,Store C,26,31.66
+12/10/2023,Chocolate Chip,Store D,48,74.45
+10/7/2023,Sugar,Store C,44,84.77
+3/13/2023,Snickerdoodle,Store B,44,197.5
+1/23/2022,Sugar,Store C,32,102.51
+7/19/2023,Sugar,Store C,6,33.2
+11/8/2023,Chocolate Chip,Store C,36,24.63
+12/15/2023,Chocolate Chip,Store C,38,79.83
+4/3/2023,Chocolate Chip,Store D,11,58.63
+3/24/2022,Oatmeal Raisin,Store D,33,74.94
+5/25/2022,Peanut Butter,Store A,24,116.3
+3/26/2022,Oatmeal Raisin,Store B,23,70.02
+3/19/2022,Peanut Butter,Store C,15,177.26
+4/2/2023,Peanut Butter,Store A,27,211.64
+1/1/2022,Sugar,Store A,11,219.63
+2/20/2022,Sugar,Store A,17,79.74
+11/16/2023,Peanut Butter,Store D,14,8.21
+12/18/2023,Peanut Butter,Store C,27,132.26
+3/22/2023,Oatmeal Raisin,Store C,18,52.79
+3/25/2023,Oatmeal Raisin,Store B,28,36.31
+5/3/2023,Sugar,Store C,47,110.46
+2/3/2022,Chocolate Chip,Store C,47,59.4
+12/14/2022,Peanut Butter,Store A,4,52.22
+4/5/2022,Oatmeal Raisin,Store B,7,111.57
+3/13/2022,Sugar,Store C,45,125.08
+7/5/2023,Oatmeal Raisin,Store D,35,71.67
+6/3/2022,Peanut Butter,Store C,48,54.26
+9/7/2022,Peanut Butter,Store A,9,70.98
+11/5/2023,Snickerdoodle,Store D,8,103.13
+3/14/2023,Chocolate Chip,Store A,45,79.19
+4/28/2022,Snickerdoodle,Store C,17,75.27
+11/2/2022,Sugar,Store D,17,101.89
+9/25/2022,Oatmeal Raisin,Store B,49,117.39
+2/23/2022,Sugar,Store B,33,138.88
+8/24/2022,Peanut Butter,Store D,32,47.92
+1/24/2023,Snickerdoodle,Store D,8,90.51
+2/5/2023,Snickerdoodle,Store A,19,124.4
+9/16/2023,Snickerdoodle,Store D,38,17.67
+10/30/2022,Sugar,Store A,3,44.71
+7/26/2022,Peanut Butter,Store C,5,120.31
+8/17/2022,Oatmeal Raisin,Store A,13,18.29
+8/1/2023,Oatmeal Raisin,Store D,47,99.4
+3/16/2022,Sugar,Store D,46,88.73
+3/11/2023,Snickerdoodle,Store C,31,50.62
+4/13/2022,Chocolate Chip,Store D,16,7.18
+2/26/2023,Sugar,Store D,32,213.69
+12/5/2023,Sugar,Store B,22,23.76
+11/2/2022,Peanut Butter,Store B,29,72.81
+4/8/2022,Oatmeal Raisin,Store C,22,83.67
+12/1/2022,Sugar,Store A,43,17.93
+3/11/2023,Sugar,Store B,3,4.98
+3/23/2023,Snickerdoodle,Store A,10,98.68
+11/4/2022,Snickerdoodle,Store D,42,166.02
+9/6/2022,Chocolate Chip,Store B,21,99.26
+6/15/2022,Peanut Butter,Store C,16,128.09
+4/26/2023,Chocolate Chip,Store C,12,39.34
+12/1/2022,Snickerdoodle,Store C,2,65.78
+6/26/2023,Oatmeal Raisin,Store B,41,145.31
+4/16/2022,Snickerdoodle,Store A,24,92.68
+7/17/2023,Peanut Butter,Store D,35,42.58
+3/22/2022,Snickerdoodle,Store A,30,81.37
+5/13/2022,Peanut Butter,Store A,30,124.69
+5/18/2022,Peanut Butter,Store D,47,33.37
+7/3/2022,Peanut Butter,Store D,35,113.79
+2/5/2023,Peanut Butter,Store B,19,78.36
+11/26/2022,Peanut Butter,Store B,8,181.24
+5/23/2023,Oatmeal Raisin,Store B,26,11.31
+3/10/2022,Chocolate Chip,Store B,49,2.46
+6/30/2023,Sugar,Store B,40,96.2
+2/22/2022,Chocolate Chip,Store D,7,3.73
+3/26/2023,Peanut Butter,Store A,30,61.16
+7/24/2022,Oatmeal Raisin,Store B,7,4.26
+5/6/2022,Snickerdoodle,Store B,3,115.07
+2/12/2022,Oatmeal Raisin,Store A,1,61.86
+4/21/2022,Peanut Butter,Store B,36,23.02
+10/25/2023,Oatmeal Raisin,Store A,25,35.45
+7/2/2022,Oatmeal Raisin,Store A,37,60.73
+4/5/2022,Peanut Butter,Store D,1,75.22
+1/9/2023,Oatmeal Raisin,Store C,15,139.49
+6/4/2023,Sugar,Store D,37,10.9
+12/26/2022,Sugar,Store C,13,138.21
+11/27/2023,Oatmeal Raisin,Store C,40,22.17
+10/8/2022,Snickerdoodle,Store C,8,116.37
+7/14/2022,Peanut Butter,Store B,5,213.98
+7/14/2022,Sugar,Store D,9,40.51
+10/29/2023,Snickerdoodle,Store C,1,64.19
+4/3/2022,Oatmeal Raisin,Store A,36,130.8
+11/3/2023,Snickerdoodle,Store B,35,40.76
+3/2/2022,Chocolate Chip,Store D,2,31.54
+9/26/2023,Sugar,Store C,40,96.31
+2/20/2022,Oatmeal Raisin,Store A,23,18.9
+2/7/2023,Peanut Butter,Store D,9,67.28
+1/5/2022,Oatmeal Raisin,Store D,34,135.85
+4/11/2023,Peanut Butter,Store B,46,74.04
+8/27/2023,Oatmeal Raisin,Store D,14,75.69
+11/13/2023,Snickerdoodle,Store B,4,69.28
+6/18/2023,Snickerdoodle,Store C,30,38.76
+2/9/2023,Snickerdoodle,Store B,31,23.35
+5/28/2023,Chocolate Chip,Store A,38,79.73
+10/7/2023,Peanut Butter,Store B,11,128.34
+8/21/2022,Snickerdoodle,Store A,35,215.74
+6/8/2023,Chocolate Chip,Store B,8,171.3
+12/12/2022,Peanut Butter,Store D,3,49.26
+2/15/2022,Oatmeal Raisin,Store C,14,194.38
+6/30/2023,Chocolate Chip,Store A,13,87.43
+3/19/2022,Sugar,Store B,45,17.51
+12/31/2023,Chocolate Chip,Store B,32,32.65
+3/14/2022,Chocolate Chip,Store B,34,105.12
+9/6/2022,Peanut Butter,Store D,45,112.04
+2/16/2022,Oatmeal Raisin,Store D,19,239.54
+5/1/2022,Sugar,Store A,38,41.73
+8/2/2022,Snickerdoodle,Store A,16,106.74
+8/27/2022,Snickerdoodle,Store D,2,158.21
+2/25/2022,Chocolate Chip,Store A,40,63.79
+12/16/2022,Peanut Butter,Store C,17,87.57
+4/17/2022,Peanut Butter,Store C,34,40.19
+2/17/2022,Snickerdoodle,Store D,42,34.37
+7/27/2023,Sugar,Store A,16,50.8
+12/3/2022,Oatmeal Raisin,Store B,38,83.26
+1/26/2022,Sugar,Store C,2,191.63
+9/14/2022,Oatmeal Raisin,Store D,2,52.31
+1/8/2022,Snickerdoodle,Store A,26,67.26
+9/17/2023,Oatmeal Raisin,Store D,13,148.27
+9/10/2022,Peanut Butter,Store B,47,25.17
+11/23/2023,Chocolate Chip,Store C,31,31.35
+12/20/2023,Chocolate Chip,Store D,34,45.46
+10/30/2022,Snickerdoodle,Store D,39,93.99
+10/1/2023,Peanut Butter,Store D,3,62.18
+2/25/2022,Sugar,Store B,8,34.56
+12/27/2023,Peanut Butter,Store D,23,92.72
+6/10/2023,Chocolate Chip,Store B,14,63.02
+4/19/2023,Chocolate Chip,Store B,27,89.71
+1/28/2022,Peanut Butter,Store B,29,38.29
+3/19/2022,Peanut Butter,Store C,39,29.43
+8/4/2022,Chocolate Chip,Store C,39,191.25
+1/21/2023,Sugar,Store D,1,185.71
+12/31/2022,Snickerdoodle,Store D,17,148.92
+10/28/2023,Snickerdoodle,Store C,41,103.92
+6/10/2023,Peanut Butter,Store A,30,120.23
+11/30/2023,Snickerdoodle,Store C,13,2.64
+11/8/2022,Chocolate Chip,Store B,21,89.17
+1/7/2022,Chocolate Chip,Store C,19,92.55
+1/3/2022,Peanut Butter,Store B,19,15.63
+9/15/2023,Peanut Butter,Store D,25,112.69
+12/29/2022,Peanut Butter,Store A,22,19.21
+5/23/2023,Sugar,Store D,31,42.45
+10/1/2022,Snickerdoodle,Store B,17,67.04
+5/21/2023,Peanut Butter,Store B,23,8.95
+1/15/2022,Oatmeal Raisin,Store B,32,108.29
+7/11/2022,Oatmeal Raisin,Store A,10,24.17
+9/23/2023,Chocolate Chip,Store C,10,70.18
+4/30/2023,Snickerdoodle,Store D,36,172
+1/28/2022,Peanut Butter,Store D,8,93.94
+12/15/2023,Oatmeal Raisin,Store C,20,21.47
+2/8/2022,Snickerdoodle,Store D,32,137.42
+9/30/2022,Chocolate Chip,Store A,14,94.66
+8/19/2022,Sugar,Store D,28,159.71
+3/27/2022,Snickerdoodle,Store B,46,103.52
+4/19/2023,Snickerdoodle,Store C,24,31.68
+5/6/2022,Sugar,Store A,15,45.92
+6/21/2023,Snickerdoodle,Store C,22,81.73
+5/25/2022,Chocolate Chip,Store A,30,8.02
+6/9/2023,Chocolate Chip,Store B,4,40.52
+7/31/2022,Sugar,Store C,13,78.65
+1/25/2022,Peanut Butter,Store D,23,157.16
+8/3/2023,Oatmeal Raisin,Store A,8,12.52
+1/29/2023,Peanut Butter,Store C,18,142.99
+3/8/2022,Snickerdoodle,Store D,12,28.3
+8/21/2022,Oatmeal Raisin,Store C,31,122.59
+4/19/2022,Sugar,Store C,14,69.68
+5/26/2022,Sugar,Store C,34,68.2
+4/21/2022,Oatmeal Raisin,Store A,18,139.7
+8/16/2022,Chocolate Chip,Store D,34,92.86
+4/21/2022,Oatmeal Raisin,Store B,11,98.28
+4/15/2023,Snickerdoodle,Store A,41,164.92
+2/3/2022,Chocolate Chip,Store A,12,198.32
+9/15/2023,Sugar,Store A,49,117.46
+1/4/2023,Oatmeal Raisin,Store B,15,64.96
+8/18/2023,Peanut Butter,Store D,31,98.11
+7/8/2023,Peanut Butter,Store D,49,84.37
+3/1/2023,Snickerdoodle,Store D,29,163.78
+9/5/2023,Peanut Butter,Store C,26,166.08
+6/2/2023,Oatmeal Raisin,Store C,18,39.2
+11/23/2023,Oatmeal Raisin,Store C,32,30.56
+10/9/2022,Peanut Butter,Store B,22,112.45
+11/16/2022,Oatmeal Raisin,Store C,38,122.87
+3/19/2023,Snickerdoodle,Store B,17,90.27
+11/11/2022,Chocolate Chip,Store D,23,54.25
+1/12/2023,Snickerdoodle,Store C,24,13.3
+10/16/2022,Snickerdoodle,Store C,8,44.24
+3/13/2023,Oatmeal Raisin,Store A,41,207.43
+10/24/2023,Chocolate Chip,Store B,6,87.71
+10/4/2022,Oatmeal Raisin,Store D,5,76.82
+12/11/2023,Sugar,Store A,44,139
+8/5/2023,Oatmeal Raisin,Store A,29,62.53
+5/18/2023,Oatmeal Raisin,Store D,28,89.29
+9/16/2023,Oatmeal Raisin,Store A,11,54.69
+5/31/2023,Chocolate Chip,Store B,1,183.54
+12/16/2022,Oatmeal Raisin,Store B,43,88.8
+3/22/2023,Chocolate Chip,Store C,19,163.89
+12/16/2022,Peanut Butter,Store A,9,134.05
+8/30/2023,Sugar,Store C,27,73.91
+10/26/2023,Chocolate Chip,Store A,34,93.92
+5/17/2022,Peanut Butter,Store B,44,96.78
+8/31/2022,Chocolate Chip,Store B,4,24.04
+6/27/2023,Chocolate Chip,Store B,36,61.66
+2/9/2022,Sugar,Store A,18,64.87
+8/17/2022,Snickerdoodle,Store B,15,35.9
+7/2/2023,Snickerdoodle,Store A,13,171.41
+8/11/2022,Chocolate Chip,Store C,19,88.09
+1/6/2022,Oatmeal Raisin,Store A,49,24.75
+11/18/2022,Peanut Butter,Store C,6,22.65
+4/13/2023,Oatmeal Raisin,Store A,48,14.98
+3/16/2022,Oatmeal Raisin,Store C,12,210.72
+1/4/2022,Chocolate Chip,Store B,37,95
+10/8/2023,Chocolate Chip,Store C,17,128.11
+4/28/2022,Chocolate Chip,Store B,23,161.53
+8/29/2023,Chocolate Chip,Store B,26,3.5
+5/19/2023,Snickerdoodle,Store C,29,88.02
+7/28/2023,Chocolate Chip,Store A,33,95.57
+3/17/2023,Snickerdoodle,Store A,27,17.17
+7/13/2022,Snickerdoodle,Store D,25,47.36
+12/16/2023,Chocolate Chip,Store A,10,7.22
+1/27/2023,Sugar,Store D,47,148.3
+1/26/2022,Peanut Butter,Store A,23,115.91
+3/11/2023,Oatmeal Raisin,Store A,21,17.14
+6/22/2022,Snickerdoodle,Store B,21,2.11
+10/27/2022,Peanut Butter,Store D,43,26.98
+10/7/2023,Sugar,Store A,13,68.15
+11/22/2022,Oatmeal Raisin,Store D,37,20.37
+2/14/2023,Oatmeal Raisin,Store B,33,159.57
+4/28/2022,Snickerdoodle,Store B,24,18.99
+12/25/2023,Chocolate Chip,Store D,44,58.11
+8/13/2022,Sugar,Store B,11,28.54
+6/16/2023,Snickerdoodle,Store C,17,163.7
+4/23/2022,Sugar,Store C,4,183.79
+5/20/2022,Chocolate Chip,Store B,47,99.78
+7/13/2023,Chocolate Chip,Store C,25,132.03
+1/1/2022,Snickerdoodle,Store A,30,28.45
+3/31/2022,Chocolate Chip,Store D,9,55.87
+10/16/2023,Peanut Butter,Store A,21,76.42
+11/16/2022,Oatmeal Raisin,Store D,20,53.02
+7/4/2023,Snickerdoodle,Store B,19,51.22
+5/19/2022,Sugar,Store A,19,165.29
+5/26/2023,Peanut Butter,Store B,12,77.09
+9/16/2022,Snickerdoodle,Store B,37,78.12
+11/4/2023,Chocolate Chip,Store D,42,8.91
+11/21/2023,Chocolate Chip,Store D,17,86.34
+1/10/2022,Chocolate Chip,Store D,37,79.55
+9/18/2022,Chocolate Chip,Store A,48,122.39
+10/12/2023,Sugar,Store C,39,150.34
+6/21/2022,Peanut Butter,Store D,28,191.45
+1/13/2022,Oatmeal Raisin,Store D,41,53.06
+6/17/2022,Sugar,Store A,35,153.86
+10/4/2023,Sugar,Store D,47,117.19
+8/19/2023,Oatmeal Raisin,Store A,48,147.16
+11/17/2022,Oatmeal Raisin,Store B,18,19.99
+11/15/2022,Chocolate Chip,Store D,14,125.79
+9/5/2023,Sugar,Store D,35,86.78
